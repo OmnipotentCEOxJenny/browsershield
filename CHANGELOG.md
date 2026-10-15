@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.6 (2026-10-15)
+- Merged the two pillars sections in the rule file into one, in Rob Domaine's words and order; all earlier rules kept as sub-bullets.
+
 ## 1.0.5 (2026-10-15)
 - Added README "Project status: done, pending, uncertain" section.
 - Pillars restated in Rob Domaine's wording in the README and rule file.

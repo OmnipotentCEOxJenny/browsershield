@@ -1,26 +1,20 @@
 ---
-description: BrowserShield scope and Rob Domaine's four pillars. Passive checks only on sites the user owns or is authorized to test.
+description: BrowserShield scope and Rob Domaine's four pillars, in his words. Passive checks only on sites the user owns or is authorized to test.
 alwaysApply: false
 ---
 
-
-# Rob Domaine's pillars (his wording)
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Legitimate means only: legitimate, proven sources and methods; unreliable sources rejected.
-3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-The sections below apply these pillars.
-
-# Scope
-- BrowserShield is a passive configuration review, not a penetration test or vulnerability scan. A clean report does not mean a site is secure.
-- Testing without authorization can break laws such as the U.S. Computer Fraud and Abuse Act (CFAA) and similar laws elsewhere. Get written permission for sites you do not own. This is not legal advice.
-- Only check sites the user owns or is authorized to test. If authorization is unclear, ask before fetching.
-- Passive checks only: HTTP requests a normal browser would make (HEAD/GET of public pages, TLS handshake). No attacks, fuzzing, brute force, port scans, login attempts or load testing.
-- Never print cookie values or tokens in a report. Show names and flags only.
-- Free tools only (curl, openssl, public docs). No paid APIs, no Google or Facebook services.
-
 # Rob Domaine's four pillars
-1. Truth always: never invent a header, finding or browser behavior. Unchecked items are UNVERIFIED.
-2. Double-check: every finding is seen in two separate fetches (or a fetch plus a second tool) before it is CONFIRMED. The report shows both.
-3. Obey laws and platform rules: authorization first, the site's terms, computer-misuse laws.
-4. Only legitimate, proven sources: MDN Web Docs and its browser-compat-data, OWASP (Secure Headers Project, cheat sheets), IETF RFCs (6797 HSTS, 6265 cookies), W3C specs, browser vendor docs (Chromium, WebKit, Mozilla, Microsoft). Browser support changes: cite the source date.
+1. **Trustworthy, honest, real data, truthful.**
+   - Never invent a header, finding or browser behavior. Unchecked items are UNVERIFIED.
+   - BrowserShield is a passive configuration review, not a penetration test or vulnerability scan. A clean report does not mean a site is secure.
+2. **Use only legitimate means.**
+   - Sources: MDN Web Docs and its browser-compat-data, OWASP (Secure Headers Project, cheat sheets), IETF RFCs (6797 HSTS, 6265 cookies), W3C specs, browser vendor docs (Chromium, WebKit, Mozilla, Microsoft). Browser support changes: cite the source date.
+   - Passive checks only: HTTP requests a normal browser would make (HEAD/GET of public pages, TLS handshake). No attacks, fuzzing, brute force, port scans, login attempts or load testing.
+   - Free tools only (curl, openssl, public docs). No paid APIs, no Google or Facebook services.
+3. **Double-check everything.**
+   - Every finding is seen in two separate fetches (or a fetch plus a second tool) before it is CONFIRMED. The report shows both.
+4. **Stay within the law and rules always: local, county, state, federal and platform rules.**
+   - Only check sites the user owns or is authorized to test. If authorization is unclear, ask before fetching.
+   - Testing without authorization can break laws such as the U.S. Computer Fraud and Abuse Act (CFAA) and similar laws elsewhere. Get written permission for sites you do not own. This is not legal advice.
+   - Respect the site's terms of service and the platform's rules.
+   - Never print cookie values or tokens in a report. Show names and flags only.

@@ -7,6 +7,7 @@ BrowserShield checks a website's security setup one browser at a time. It covers
 
 ## Project status: done, pending, uncertain
 **Done**
+- 2026-10-15: v1.0.6 merges the pillars into one section in Rob's words (rule file and README).
 - 2026-10-15: full re-test PASS (manifest, frontmatter, file links, JSON/CSV export columns, two-fetch passive audit of our own repo page).
 - 2026-10-14: per-browser notes for Permissions-Policy and X-Frame-Options checked against MDN.
 
@@ -31,7 +32,7 @@ BrowserShield checks a website's security setup one browser at a time. It covers
 
 ## Rob Domaine's four pillars
 1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Legitimate means only: legitimate, proven sources and methods; unreliable sources rejected.
+2. Use only legitimate means: legitimate, proven sources and methods; unreliable sources rejected.
 3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
