@@ -3,6 +3,14 @@ description: BrowserShield scope and Rob Domaine's four pillars. Passive checks 
 alwaysApply: false
 ---
 
+
+# Rob Domaine's pillars (his wording)
+1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
+2. Legitimate means only: legitimate, proven sources and methods; unreliable sources rejected.
+3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
+4. Stay within the law and rules always: local, county, state, federal and platform rules.
+The sections below apply these pillars.
+
 # Scope
 - BrowserShield is a passive configuration review, not a penetration test or vulnerability scan. A clean report does not mean a site is secure.
 - Testing without authorization can break laws such as the U.S. Computer Fraud and Abuse Act (CFAA) and similar laws elsewhere. Get written permission for sites you do not own. This is not legal advice.

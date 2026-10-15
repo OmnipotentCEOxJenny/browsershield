@@ -4,6 +4,22 @@
 
 BrowserShield checks a website's security setup one browser at a time. It covers security headers, HTTPS, cookies and compatibility, flags gaps and suggests fixes for Chrome, Safari, Firefox, Edge and mobile. Free and MIT-licensed, with no paid services.
 
+
+## Project status: done, pending, uncertain
+**Done**
+- 2026-10-15: full re-test PASS (manifest, frontmatter, file links, JSON/CSV export columns, two-fetch passive audit of our own repo page).
+- 2026-10-14: per-browser notes for Permissions-Policy and X-Frame-Options checked against MDN.
+
+**Pending**
+- The plain-http to https redirect check was never verified, because port 80 is blocked from the build machine. It needs a test from a network where port 80 is reachable.
+- Per-browser notes were checked against MDN for only two headers; the rest are pending.
+- security.txt row in the sample is SINGLE-CHECK (one fetch).
+- Marketplace review: submitted 2026-10-14, pending, no approval yet.
+
+**Uncertain**
+- How the listing works on the Grok Bot and Grok side: not described in the Cursor publisher terms, so not confirmed.
+- Whether xAI review will require changes: unknown until review.
+
 ## Quick start
 1. Install (see Installation).
 2. Ask: "Run BrowserShield on https://your-site.example" (a site you own or may test).
@@ -14,10 +30,10 @@ BrowserShield checks a website's security setup one browser at a time. It covers
 - Builder: Jenny Echo
 
 ## Rob Domaine's four pillars
-1. Truth always: never invent; unchecked means UNVERIFIED.
-2. Double-check: every finding is seen twice before it is CONFIRMED.
-3. Obey laws and platform rules: only sites you own or are authorized to test; passive checks only.
-4. Only legitimate, proven sources: MDN, OWASP, IETF RFCs, W3C, browser vendor docs.
+1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
+2. Legitimate means only: legitimate, proven sources and methods; unreliable sources rejected.
+3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
+4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Legal and scope
 Only test sites you own or have written permission to test. Unauthorized testing can violate laws such as the U.S. CFAA. BrowserShield is a passive configuration review, not a penetration test, and never stores cookie values. Not legal advice.
