@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.4 (2026-10-15)
+- Full re-test. Sample report re-run with CSP unsafe-* check, deprecated headers, SRI and security.txt rows. Added "pass" to the severity scale (the sample already used it). Netlify and Vercel snippet examples added (the skill listed them without examples).
+
 ## 1.0.3 (2026-10-14)
 - Per-browser notes checked against MDN (Permissions-Policy, X-Frame-Options wording fixed); sample re-run for COOP/COEP/CORP and mixed content; JSON and CSV export examples.
 
