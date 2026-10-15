@@ -1,0 +1,4 @@
+[
+  {"id": 7, "area": "Referrer-Policy", "finding": "no-referrer-when-downgrade", "severity": "low", "fetch1": "seen", "fetch2": "seen", "status": "CONFIRMED", "browsers": "all", "fix": "Referrer-Policy: strict-origin-when-cross-origin"},
+  {"id": 8, "area": "Permissions-Policy", "finding": "header not sent", "severity": "low", "fetch1": "absent", "fetch2": "absent", "status": "CONFIRMED", "browsers": "limited availability (MDN)", "fix": "Permissions-Policy: camera=(), microphone=(), geolocation=()"}
+]

@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3 (2026-10-14)
+- Per-browser notes checked against MDN (Permissions-Policy, X-Frame-Options wording fixed); sample re-run for COOP/COEP/CORP and mixed content; JSON and CSV export examples.
+
 ## 1.0.2 (2026-10-14)
 - Clearer trigger description, README quick start, edge cases (redirect chains, CDN or WAF blocks, per-path headers, low request rate), severity scoring, JSON and CSV export.
 

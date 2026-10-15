@@ -10,10 +10,10 @@ Checked: 2026-10-14, about 11:06 PM ET  Authorization: our own repo page, public
 | 5 | X-Content-Type-Options | `nosniff` | pass | seen | seen | CONFIRMED | all | none |
 | 6 | Cookies | `_gh_sess` and `logged_in`: HttpOnly, Secure, SameSite=Lax. `_octo`: Secure, SameSite=Lax, no HttpOnly (a tracking ID, not a session cookie) | info | seen | seen | CONFIRMED | all | none needed |
 | 7 | Referrer-Policy | `no-referrer-when-downgrade`, looser than the common `strict-origin-when-cross-origin` baseline (full URL sent cross-origin over HTTPS) | low | seen | seen | CONFIRMED | all | `Referrer-Policy: strict-origin-when-cross-origin` |
-| 8 | Permissions-Policy | Header not sent | low | absent | absent | CONFIRMED | Chromium browsers mainly (verify current support on MDN) | `Permissions-Policy: camera=(), microphone=(), geolocation=()` |
-| 9 | COOP / COEP | Not checked in this run | | | | UNVERIFIED | | |
-| 10 | HTTP to HTTPS redirect | Port 80 unreachable from the test machine (timed out) | | | | UNVERIFIED (network limit, not a site failure) | | |
-| 11 | Mixed content | Not checked in this run | | | | UNVERIFIED | | |
+| 8 | Permissions-Policy | Header not sent | low | absent | absent | CONFIRMED | MDN 2026-10-14: limited availability, not Baseline; mainly Chromium-based browsers | `Permissions-Policy: camera=(), microphone=(), geolocation=()` |
+| 9 | COOP / COEP / CORP | None of the three headers sent on this HTML page | low | absent | absent | CONFIRMED | all | `Cross-Origin-Opener-Policy: same-origin` if cross-origin popups are not needed |
+| 10 | HTTP to HTTPS redirect | Not testable: outbound port 80 is blocked from the test machine (curl timed out for both github.com and example.com) | | | | UNVERIFIED (test-machine network limit, not a site failure; HSTS preload covers browsers that load the preload list) | | |
+| 11 | Mixed content | No `src` or `href` with `http://` in the page HTML | pass | none found | CSP upgrade-insecure-requests present | CONFIRMED | all | none |
 
 Cookie values were redacted and never stored.
 
