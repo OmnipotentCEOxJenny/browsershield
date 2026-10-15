@@ -14,6 +14,9 @@ BrowserShield checks a website's security setup one browser at a time. It covers
 3. Obey laws and platform rules: only sites you own or are authorized to test; passive checks only.
 4. Only legitimate, proven sources: MDN, OWASP, IETF RFCs, W3C, browser vendor docs.
 
+## Legal and scope
+Only test sites you own or have written permission to test. Unauthorized testing can violate laws such as the U.S. CFAA. BrowserShield is a passive configuration review, not a penetration test, and never stores cookie values. Not legal advice.
+
 ## Components
 - `skills/audit-browser-security`: passive audit of headers (CSP, HSTS, framing, Referrer-Policy, Permissions-Policy, COOP/COEP, nosniff), HTTPS and TLS, cookie flags, mixed content, with per-browser notes.
 - `skills/write-fix-snippets`: nginx, Apache, Caddy, Netlify, Vercel and Express snippets.

@@ -4,6 +4,8 @@ alwaysApply: false
 ---
 
 # Scope
+- BrowserShield is a passive configuration review, not a penetration test or vulnerability scan. A clean report does not mean a site is secure.
+- Testing without authorization can break laws such as the U.S. Computer Fraud and Abuse Act (CFAA) and similar laws elsewhere. Get written permission for sites you do not own. This is not legal advice.
 - Only check sites the user owns or is authorized to test. If authorization is unclear, ask before fetching.
 - Passive checks only: HTTP requests a normal browser would make (HEAD/GET of public pages, TLS handshake). No attacks, fuzzing, brute force, port scans, login attempts or load testing.
 - Never print cookie values or tokens in a report. Show names and flags only.
