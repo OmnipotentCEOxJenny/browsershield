@@ -1,6 +1,6 @@
 ---
 name: audit-browser-security
-description: Passively audit a website the user owns or is authorized to test for security headers, HTTPS and TLS, cookie flags and mixed content, and report support differences per browser (Chrome, Safari, Firefox, Edge, mobile) with fixes. Use when a user asks to check a site's browser security setup.
+description: Passive website security-header and HTTPS check. Use whenever a user asks to check, audit or harden a site's security headers, CSP, HSTS, cookies, HTTPS redirect, mixed content or browser compatibility of those settings, for a site they own or are authorized to test. Reports gaps per browser with fixes.
 ---
 
 # Audit browser security
@@ -17,4 +17,7 @@ Follow `rules/pillars-and-scope.mdc`. Required.
 6b. **security.txt.** `curl -sSI https://SITE/.well-known/security.txt`: present with Contact and Expires per RFC 9116, else low.
 7. **Per-browser notes.** For each header, note support differences from MDN browser-compat-data (Chrome, Edge, Firefox, Safari, Chrome Android, Safari iOS). Cite the MDN page; if not checked now, say "verify current support on MDN".
 8. **Double-check.** A finding is CONFIRMED only if both fetches agree. Otherwise SINGLE-CHECK.
-9. **Report** with `references/report-template.md`: finding, severity (high, medium, low, info), evidence (both fetches), affected browsers, fix, and a config snippet from the write-fix-snippets skill.
+9. **Edge cases.** Redirect chains: audit the final same-site URL and list each hop. CDN or WAF blocks (403, 429, challenge pages): stop, report UNVERIFIED, never retry aggressively or evade. Different headers on different paths: check the home page plus one key page the user names. Rate: a few requests total.
+10. **Severity.** high = exploitable gap on a sensitive page (no HTTPS, active mixed content, session cookie without Secure or HttpOnly, no CSP or framing protection on a login page); medium = weak policy (unsafe-inline, short HSTS, missing SRI); low = hardening (Permissions-Policy, Referrer-Policy, security.txt); info = notes.
+11. **Export.** On request, output findings as JSON (id, area, finding, severity, fetch1, fetch2, status, browsers, fix) or CSV with the same columns. Never include cookie values.
+12. **Report** with `references/report-template.md`: finding, severity (high, medium, low, info), evidence (both fetches), affected browsers, fix, and a config snippet from the write-fix-snippets skill.

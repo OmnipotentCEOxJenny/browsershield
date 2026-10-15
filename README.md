@@ -4,6 +4,11 @@
 
 BrowserShield checks a website's security setup one browser at a time. It covers security headers, HTTPS, cookies and compatibility, flags gaps and suggests fixes for Chrome, Safari, Firefox, Edge and mobile. Free and MIT-licensed, with no paid services.
 
+## Quick start
+1. Install (see Installation).
+2. Ask: "Run BrowserShield on https://your-site.example" (a site you own or may test).
+3. Get a findings table with two checks each, per-browser notes, server snippets, and optional JSON or CSV export.
+
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC
 - Builder: Jenny Echo

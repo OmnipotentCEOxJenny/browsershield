@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.2 (2026-10-14)
+- Clearer trigger description, README quick start, edge cases (redirect chains, CDN or WAF blocks, per-path headers, low request rate), severity scoring, JSON and CSV export.
+
 ## 1.0.1 (2026-10-14)
 - Precise http-to-https redirect test; CORP, SRI, security.txt (RFC 9116), CSP unsafe-inline/unsafe-eval and Report-Only handling, HSTS preload eligibility, deprecated-header warnings; mixed content split active/passive.
 - Legal wording (authorization, CFAA, not a pen test) and cookie-value redaction rule.
