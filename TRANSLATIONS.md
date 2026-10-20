@@ -4,7 +4,7 @@
 
 The plugin's AI instructions tell it to answer in the user's language and keep commands, file names and status labels (CONFIRMED, UNVERIFIED, SINGLE-CHECK) unchanged.
 
-Languages: Español, Français, Português, Deutsch, Italiano, 简体中文, 日本語, 한국어, हिन्दी, العربية, Русский, Bahasa Indonesia, Türkçe, Tiếng Việt, বাংলা, Kiswahili, Українська, Polski, Nederlands, Tagalog / Filipino
+Languages: Español, Français, Português, Deutsch, Italiano, Nederlands, Polski, Русский, Українська, Türkçe, العربية, עברית, فارسی, हिन्दी, বাংলা, اردو, 简体中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, Kiswahili, Tagalog / Filipino
 
 ## Rob Domaine's four pillars
 1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
@@ -13,6 +13,7 @@ Languages: Español, Français, Português, Deutsch, Italiano, 简体中文, 日
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Español (`es`)
+**BrowserShield**
 *Traducción automática, aún no revisada por un hablante nativo.*
 
 BrowserShield revisa de forma pasiva los encabezados de seguridad, HTTPS y cookies de un sitio web y sugiere correcciones para cada navegador. Solo para sitios que usted posee o tiene permiso para probar.
@@ -23,7 +24,10 @@ El asistente responde en su idioma; los comandos y nombres de archivo quedan en 
 
 Los cuatro pilares de Rob Domaine se aplican siempre. Se mantienen abajo con su redacción original en inglés.
 
+**Evaluación honesta:** este plugin tiene límites, detallados en el README en inglés (sección "Honest assessment: what this plugin cannot do"). No usa servicios de pago, nunca elude inicios de sesión ni reglas, y cumple todas las leyes y normas de las plataformas. Traducción automática, no revisada por un hablante nativo.
+
 ## Français (`fr`)
+**BrowserShield**
 *Traduction automatique, pas encore relue par un locuteur natif.*
 
 BrowserShield vérifie de façon passive les en-têtes de sécurité, le HTTPS et les cookies d'un site web, et propose des correctifs pour chaque navigateur. Uniquement pour les sites que vous possédez ou êtes autorisé à tester.
@@ -34,7 +38,10 @@ L'assistant répond dans votre langue ; les commandes et noms de fichiers resten
 
 Les quatre piliers de Rob Domaine s'appliquent toujours. Ils figurent ci-dessous dans sa formulation originale en anglais.
 
+**Évaluation honnête :** ce plugin a des limites, détaillées dans le README anglais (section "Honest assessment: what this plugin cannot do"). Il n'utilise aucun service payant, ne contourne jamais les connexions ni les règles, et respecte toutes les lois et règles des plateformes. Traduction automatique, non relue par un locuteur natif.
+
 ## Português (`pt`)
+**BrowserShield**
 *Tradução automática, ainda não revisada por um falante nativo.*
 
 O BrowserShield verifica de forma passiva os cabeçalhos de segurança, o HTTPS e os cookies de um site e sugere correções para cada navegador. Somente para sites que você possui ou tem permissão para testar.
@@ -45,7 +52,10 @@ O assistente responde no seu idioma; comandos e nomes de arquivos ficam em ingl�
 
 Os quatro pilares de Rob Domaine sempre se aplicam. Eles estão abaixo na redação original em inglês.
 
+**Avaliação honesta:** este plugin tem limites, detalhados no README em inglês (seção "Honest assessment: what this plugin cannot do"). Não usa serviços pagos, nunca contorna logins nem regras e cumpre todas as leis e regras das plataformas. Tradução automática, não revisada por um falante nativo.
+
 ## Deutsch (`de`)
+**BrowserShield**
 *Maschinelle Übersetzung, noch nicht von Muttersprachlern geprüft.*
 
 BrowserShield prüft passiv die Sicherheits-Header, HTTPS und Cookies einer Website und schlägt Korrekturen für jeden Browser vor. Nur für Websites, die Ihnen gehören oder die Sie testen dürfen.
@@ -56,7 +66,10 @@ Der Assistent antwortet in Ihrer Sprache; Befehle und Dateinamen bleiben auf Eng
 
 Rob Domaines vier Grundsätze gelten immer. Sie stehen unten in seinem englischen Originalwortlaut.
 
+**Ehrliche Einschätzung:** Dieses Plugin hat Grenzen, die im englischen README aufgeführt sind (Abschnitt "Honest assessment: what this plugin cannot do"). Es nutzt keine kostenpflichtigen Dienste, umgeht nie Anmeldungen oder Regeln und hält alle Gesetze und Plattformregeln ein. Maschinelle Übersetzung, nicht von Muttersprachlern geprüft.
+
 ## Italiano (`it`)
+**BrowserShield**
 *Traduzione automatica, non ancora revisionata da un madrelingua.*
 
 BrowserShield controlla in modo passivo le intestazioni di sicurezza, l'HTTPS e i cookie di un sito web e suggerisce correzioni per ogni browser. Solo per siti di tua proprietà o che sei autorizzato a testare.
@@ -67,7 +80,10 @@ L'assistente risponde nella tua lingua; comandi e nomi di file restano in ingles
 
 I quattro pilastri di Rob Domaine valgono sempre. Sono riportati sotto nella sua formulazione originale in inglese.
 
+**Valutazione onesta:** questo plugin ha dei limiti, elencati nel README in inglese (sezione "Honest assessment: what this plugin cannot do"). Non usa servizi a pagamento, non aggira mai login o regole e rispetta tutte le leggi e le regole delle piattaforme. Traduzione automatica, non revisionata da un madrelingua.
+
 ## 简体中文 (`zh`)
+**BrowserShield**
 *机器翻译，尚未经母语人士审阅。*
 
 BrowserShield 以被动方式检查网站的安全标头、HTTPS 和 Cookie，并为每种浏览器提供修复建议。仅限您拥有或获准测试的网站。
@@ -78,7 +94,10 @@ BrowserShield 以被动方式检查网站的安全标头、HTTPS 和 Cookie，�
 
 Rob Domaine 的四大原则始终适用，下方保留其英文原文。
 
+**诚实评估：**本插件有其局限，详见英文 README（"Honest assessment: what this plugin cannot do" 一节）。它不使用任何付费服务，从不绕过登录或规则，并遵守所有法律和平台规则。机器翻译，未经母语人士审校。
+
 ## 日本語 (`ja`)
+**BrowserShield**
 *機械翻訳です。ネイティブスピーカーによる確認はまだです。*
 
 BrowserShield は、ウェブサイトのセキュリティヘッダー、HTTPS、Cookie を受動的に確認し、ブラウザごとの修正案を示します。所有している、またはテストの許可を得たサイトのみが対象です。
@@ -89,7 +108,10 @@ BrowserShield は、ウェブサイトのセキュリティヘッダー、HTTPS�
 
 Rob Domaine の4つの柱は常に適用されます。下記に英語の原文のまま掲載しています。
 
+**正直な評価：**このプラグインには限界があり、英語の README（"Honest assessment: what this plugin cannot do" の節）に記載しています。有料サービスは使わず、ログインや規則を回避することはなく、すべての法律とプラットフォームの規則に従います。機械翻訳であり、ネイティブスピーカーの確認は受けていません。
+
 ## 한국어 (`ko`)
+**BrowserShield**
 *기계 번역이며 아직 원어민의 검토를 받지 않았습니다.*
 
 BrowserShield는 웹사이트의 보안 헤더, HTTPS, 쿠키를 수동적으로 점검하고 브라우저별 수정 방법을 제안합니다. 본인 소유이거나 테스트 권한이 있는 사이트에만 사용하세요.
@@ -100,7 +122,10 @@ BrowserShield는 웹사이트의 보안 헤더, HTTPS, 쿠키를 수동적으로
 
 Rob Domaine의 네 가지 원칙은 항상 적용됩니다. 아래에 영어 원문 그대로 실었습니다.
 
+**정직한 평가:** 이 플러그인에는 한계가 있으며 영어 README("Honest assessment: what this plugin cannot do" 섹션)에 나와 있습니다. 유료 서비스를 쓰지 않고, 로그인이나 규칙을 절대 우회하지 않으며, 모든 법률과 플랫폼 규칙을 따릅니다. 기계 번역이며 원어민 검토를 거치지 않았습니다.
+
 ## हिन्दी (`hi`)
+**BrowserShield**
 *मशीन अनुवाद, अभी तक किसी मूल भाषी द्वारा जाँचा नहीं गया।*
 
 BrowserShield किसी वेबसाइट के सुरक्षा हेडर, HTTPS और कुकीज़ की निष्क्रिय (passive) जाँच करता है और हर ब्राउज़र के लिए सुधार सुझाता है। केवल उन्हीं साइटों के लिए जिनके आप मालिक हैं या जिन्हें जाँचने की अनुमति है।
@@ -111,7 +136,10 @@ BrowserShield किसी वेबसाइट के सुरक्षा �
 
 Rob Domaine के चार स्तंभ हमेशा लागू होते हैं। वे नीचे उनके मूल अंग्रेज़ी शब्दों में दिए गए हैं।
 
+**ईमानदार आकलन:** इस प्लगइन की सीमाएँ हैं, जो अंग्रेज़ी README में दी गई हैं ("Honest assessment: what this plugin cannot do" अनुभाग)। यह कोई सशुल्क सेवा नहीं लेता, लॉगिन या नियमों को कभी नहीं लांघता, और सभी कानूनों व प्लेटफ़ॉर्म नियमों का पालन करता है। मशीनी अनुवाद, किसी मूल वक्ता द्वारा जाँचा नहीं गया।
+
 ## العربية (`ar`)
+**BrowserShield**
 *ترجمة آلية، لم يراجعها متحدث أصلي بعد.*
 
 يفحص BrowserShield بشكل سلبي ترويسات الأمان وHTTPS وملفات تعريف الارتباط لموقع ويب، ويقترح إصلاحات لكل متصفح. فقط للمواقع التي تملكها أو المصرّح لك باختبارها.
@@ -122,7 +150,10 @@ Rob Domaine के चार स्तंभ हमेशा लागू हो
 
 تنطبق ركائز Rob Domaine الأربع دائمًا، وهي مذكورة أدناه بصياغته الإنجليزية الأصلية.
 
+**تقييم صادق:** لهذه الإضافة حدود مذكورة في ملف README الإنجليزي (قسم "Honest assessment: what this plugin cannot do"). لا تستخدم خدمات مدفوعة، ولا تتجاوز تسجيل الدخول أو القواعد أبدًا، وتلتزم بجميع القوانين وقواعد المنصات. ترجمة آلية لم يراجعها متحدث أصلي.
+
 ## Русский (`ru`)
+**BrowserShield**
 *Машинный перевод, ещё не проверен носителем языка.*
 
 BrowserShield пассивно проверяет заголовки безопасности, HTTPS и cookie веб-сайта и предлагает исправления для каждого браузера. Только для сайтов, которыми вы владеете или которые вам разрешено проверять.
@@ -133,7 +164,10 @@ BrowserShield пассивно проверяет заголовки безоп�
 
 Четыре принципа Роба Домейна действуют всегда. Ниже они приведены в его оригинальной английской формулировке.
 
+**Честная оценка:** у плагина есть ограничения, они перечислены в английском README (раздел "Honest assessment: what this plugin cannot do"). Он не использует платные сервисы, никогда не обходит входы и правила и соблюдает все законы и правила платформ. Машинный перевод, не проверен носителем языка.
+
 ## Bahasa Indonesia (`id`)
+**BrowserShield**
 *Terjemahan mesin, belum ditinjau oleh penutur asli.*
 
 BrowserShield memeriksa secara pasif header keamanan, HTTPS, dan cookie sebuah situs web, lalu menyarankan perbaikan untuk setiap browser. Hanya untuk situs milik Anda atau yang Anda izinkan untuk diuji.
@@ -144,7 +178,10 @@ Asisten menjawab dalam bahasa Anda; perintah dan nama file tetap dalam bahasa In
 
 Empat pilar Rob Domaine selalu berlaku. Pilar tersebut tercantum di bawah dalam kata-kata asli bahasa Inggrisnya.
 
+**Penilaian jujur:** plugin ini punya batasan, tercantum di README bahasa Inggris (bagian "Honest assessment: what this plugin cannot do"). Tidak memakai layanan berbayar, tidak pernah melewati login atau aturan, dan mematuhi semua hukum serta aturan platform. Terjemahan mesin, belum ditinjau penutur asli.
+
 ## Türkçe (`tr`)
+**BrowserShield**
 *Makine çevirisidir, henüz anadili konuşan biri tarafından gözden geçirilmedi.*
 
 BrowserShield bir web sitesinin güvenlik başlıklarını, HTTPS'i ve çerezlerini pasif olarak kontrol eder ve her tarayıcı için düzeltmeler önerir. Yalnızca sahibi olduğunuz veya test izniniz olan siteler için.
@@ -155,7 +192,10 @@ Asistan sizin dilinizde yanıt verir; komutlar ve dosya adları İngilizce kalı
 
 Rob Domaine'in dört ilkesi her zaman geçerlidir. Aşağıda orijinal İngilizce ifadeleriyle yer alırlar.
 
+**Dürüst değerlendirme:** bu eklentinin sınırları vardır; İngilizce README'de listelenmiştir ("Honest assessment: what this plugin cannot do" bölümü). Ücretli hizmet kullanmaz, oturum açmayı veya kuralları asla atlatmaz ve tüm yasalara ve platform kurallarına uyar. Makine çevirisidir, anadili konuşan biri tarafından incelenmemiştir.
+
 ## Tiếng Việt (`vi`)
+**BrowserShield**
 *Bản dịch máy, chưa được người bản ngữ kiểm tra.*
 
 BrowserShield kiểm tra thụ động các header bảo mật, HTTPS và cookie của một trang web, rồi đề xuất cách sửa cho từng trình duyệt. Chỉ dùng cho trang bạn sở hữu hoặc được phép kiểm tra.
@@ -166,7 +206,10 @@ Trợ lý trả lời bằng ngôn ngữ của bạn; lệnh và tên tệp gi�
 
 Bốn trụ cột của Rob Domaine luôn được áp dụng. Chúng được giữ nguyên văn tiếng Anh ở bên dưới.
 
+**Đánh giá trung thực:** plugin này có giới hạn, được liệt kê trong README tiếng Anh (mục "Honest assessment: what this plugin cannot do"). Không dùng dịch vụ trả phí, không bao giờ vượt qua đăng nhập hay quy tắc, và tuân thủ mọi luật cùng quy định nền tảng. Bản dịch máy, chưa được người bản ngữ kiểm tra.
+
 ## বাংলা (`bn`)
+**BrowserShield**
 *যন্ত্র-অনুবাদ, এখনও কোনো মাতৃভাষী পর্যালোচনা করেননি।*
 
 BrowserShield একটি ওয়েবসাইটের নিরাপত্তা হেডার, HTTPS ও কুকি নিষ্ক্রিয়ভাবে পরীক্ষা করে এবং প্রতিটি ব্রাউজারের জন্য সমাধান প্রস্তাব করে। শুধু আপনার মালিকানাধীন বা পরীক্ষার অনুমতি আছে এমন সাইটের জন্য।
@@ -177,7 +220,10 @@ BrowserShield একটি ওয়েবসাইটের নিরাপত�
 
 Rob Domaine-এর চারটি স্তম্ভ সবসময় প্রযোজ্য। নিচে সেগুলো তাঁর মূল ইংরেজি ভাষায় রাখা হয়েছে।
 
+**সৎ মূল্যায়ন:** এই প্লাগইনের সীমাবদ্ধতা আছে, যা ইংরেজি README-তে তালিকাভুক্ত ("Honest assessment: what this plugin cannot do" অংশ)। এটি কোনো পেইড সেবা ব্যবহার করে না, কখনও লগইন বা নিয়ম এড়ায় না এবং সব আইন ও প্ল্যাটফর্মের নিয়ম মানে। যান্ত্রিক অনুবাদ, কোনো মাতৃভাষী পর্যালোচনা করেননি।
+
 ## Kiswahili (`sw`)
+**BrowserShield**
 *Tafsiri ya mashine, bado haijakaguliwa na mzungumzaji asilia.*
 
 BrowserShield hukagua kwa njia tulivu vichwa vya usalama, HTTPS na vidakuzi vya tovuti, na kupendekeza marekebisho kwa kila kivinjari. Kwa tovuti unazomiliki au una ruhusa ya kuzijaribu tu.
@@ -188,7 +234,10 @@ Msaidizi hujibu kwa lugha yako; amri na majina ya faili hubaki kwa Kiingereza.
 
 Nguzo nne za Rob Domaine zinatumika kila wakati. Zimewekwa hapa chini kwa maneno yake asilia ya Kiingereza.
 
+**Tathmini ya kweli:** programu-jalizi hii ina mipaka, iliyoorodheshwa katika README ya Kiingereza (sehemu "Honest assessment: what this plugin cannot do"). Haitumii huduma za kulipia, haikwepi kamwe kuingia au sheria, na inafuata sheria zote na kanuni za majukwaa. Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia.
+
 ## Українська (`uk`)
+**BrowserShield**
 *Машинний переклад, ще не перевірений носієм мови.*
 
 BrowserShield пасивно перевіряє заголовки безпеки, HTTPS і cookie вебсайту та пропонує виправлення для кожного браузера. Лише для сайтів, якими ви володієте або які вам дозволено перевіряти.
@@ -199,7 +248,10 @@ BrowserShield пасивно перевіряє заголовки безпек�
 
 Чотири принципи Роба Домейна діють завжди. Нижче їх наведено в оригінальному англійському формулюванні.
 
+**Чесна оцінка:** плагін має обмеження, їх перелічено в англійському README (розділ "Honest assessment: what this plugin cannot do"). Він не використовує платних сервісів, ніколи не обходить входи й правила та дотримується всіх законів і правил платформ. Машинний переклад, не перевірений носієм мови.
+
 ## Polski (`pl`)
+**BrowserShield**
 *Tłumaczenie maszynowe, jeszcze niesprawdzone przez rodzimego użytkownika języka.*
 
 BrowserShield pasywnie sprawdza nagłówki bezpieczeństwa, HTTPS i pliki cookie witryny oraz proponuje poprawki dla każdej przeglądarki. Tylko dla witryn, które posiadasz lub masz zgodę testować.
@@ -210,7 +262,10 @@ Asystent odpowiada w Twoim języku; polecenia i nazwy plików pozostają po angi
 
 Cztery filary Roba Domaine'a obowiązują zawsze. Poniżej podano je w oryginalnym angielskim brzmieniu.
 
+**Uczciwa ocena:** ta wtyczka ma ograniczenia, opisane w angielskim README (sekcja "Honest assessment: what this plugin cannot do"). Nie korzysta z płatnych usług, nigdy nie omija logowania ani zasad i przestrzega wszystkich przepisów oraz zasad platform. Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka.
+
 ## Nederlands (`nl`)
+**BrowserShield**
 *Machinevertaling, nog niet nagekeken door een moedertaalspreker.*
 
 BrowserShield controleert passief de beveiligingsheaders, HTTPS en cookies van een website en stelt per browser oplossingen voor. Alleen voor sites die u bezit of mag testen.
@@ -221,7 +276,10 @@ De assistent antwoordt in uw taal; commando's en bestandsnamen blijven in het En
 
 De vier pijlers van Rob Domaine gelden altijd. Ze staan hieronder in zijn oorspronkelijke Engelse bewoording.
 
+**Eerlijke beoordeling:** deze plug-in heeft beperkingen, beschreven in de Engelse README (sectie "Honest assessment: what this plugin cannot do"). Hij gebruikt geen betaalde diensten, omzeilt nooit logins of regels en volgt alle wetten en platformregels. Machinevertaling, niet nagekeken door een moedertaalspreker.
+
 ## Tagalog / Filipino (`tl`)
+**BrowserShield**
 *Pagsasaling makina, hindi pa nasusuri ng katutubong nagsasalita.*
 
 Pasibong sinusuri ng BrowserShield ang mga security header, HTTPS at cookies ng isang website, at nagmumungkahi ng mga ayos para sa bawat browser. Para lamang sa mga site na pag-aari mo o may pahintulot kang suriin.
@@ -231,3 +289,26 @@ Pag-install: kopyahin ang folder na ito sa `~/.cursor/plugins/local/browsershiel
 Sumasagot ang assistant sa iyong wika; nananatiling Ingles ang mga command at pangalan ng file.
 
 Laging umiiral ang apat na haligi ni Rob Domaine. Nakasaad ang mga ito sa ibaba sa orihinal niyang pananalita sa Ingles.
+
+**Tapat na pagtatasa:** may mga limitasyon ang plugin na ito, nakalista sa README sa Ingles (seksyong "Honest assessment: what this plugin cannot do"). Hindi ito gumagamit ng bayad na serbisyo, hindi kailanman lumalampas sa login o mga patakaran, at sumusunod sa lahat ng batas at patakaran ng platform. Pagsasaling makina, hindi pa nasusuri ng katutubong nagsasalita.
+
+## עברית (`he`)
+**BrowserShield**
+
+BrowserShield בודק באופן פסיבי כותרות אבטחה, HTTPS ועוגיות של אתר ומציע תיקונים לכל דפדפן. רק לאתרים שבבעלותך או שיש לך הרשאה לבדוק.
+
+**הערכה כנה:** לתוסף יש מגבלות, והן מפורטות ב-README באנגלית (סעיף "Honest assessment: what this plugin cannot do"). הוא אינו משתמש בשירותים בתשלום, לעולם אינו עוקף התחברות או כללים, ופועל לפי כל החוקים וכללי הפלטפורמות. תרגום מכונה, לא נבדק על ידי דובר שפת אם.
+
+## فارسی (`fa`)
+**BrowserShield**
+
+BrowserShield به‌صورت غیرفعال سرآیندهای امنیتی، HTTPS و کوکی‌های یک وب‌سایت را بررسی می‌کند و برای هر مرورگر اصلاحاتی پیشنهاد می‌دهد. فقط برای سایت‌هایی که مال شماست یا اجازهٔ بررسی‌شان را دارید.
+
+**ارزیابی صادقانه:** این افزونه محدودیت‌هایی دارد که در README انگلیسی آمده است (بخش "Honest assessment: what this plugin cannot do"). از خدمات پولی استفاده نمی‌کند، هرگز ورود یا قوانین را دور نمی‌زند و از همهٔ قوانین و مقررات پلتفرم‌ها پیروی می‌کند. ترجمهٔ ماشینی، بازبینی‌نشده توسط گویشور بومی.
+
+## اردو (`ur`)
+**BrowserShield**
+
+BrowserShield کسی ویب سائٹ کے سیکیورٹی ہیڈرز، HTTPS اور کوکیز کی غیر فعال جانچ کرتا ہے اور ہر براؤزر کے لیے اصلاحات تجویز کرتا ہے۔ صرف اُن سائٹس کے لیے جو آپ کی ہوں یا جن کی جانچ کی آپ کو اجازت ہو۔
+
+**دیانت دارانہ جائزہ:** اس پلگ اِن کی حدود ہیں جو انگریزی README میں درج ہیں ("Honest assessment: what this plugin cannot do" حصہ)۔ یہ کوئی ادائیگی والی سروس استعمال نہیں کرتا، لاگ اِن یا قواعد کو کبھی نظرانداز نہیں کرتا، اور تمام قوانین اور پلیٹ فارم کے قواعد پر عمل کرتا ہے۔ مشینی ترجمہ، کسی اہلِ زبان نے نظرثانی نہیں کی۔

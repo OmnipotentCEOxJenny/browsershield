@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.8 (2026-10-20)
+- README follows the shared template: title, plain description, logo, existing content (Rob Domaine's four pillars unchanged), and a new final section "Honest assessment: what this plugin cannot do" listing real limits and the compliance statement.
+- TRANSLATIONS.md now covers the same 23 languages as every Omnipotent plugin (title, description and honest-assessment summary for each), all marked as machine translations not reviewed by native speakers.
+- Docs only; no behavior changes.
+
 ## 1.0.7 (2026-10-20)
 - Fix: the documented `openssl s_client` command waited for input and hung; it now ends with `</dev/null`.
 - Fix: the mixed-content grep missed single-quoted and unquoted `src`/`href` attributes; it now catches all three (tested).

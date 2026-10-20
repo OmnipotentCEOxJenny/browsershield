@@ -1,9 +1,8 @@
 # BrowserShield
 
-![BrowserShield logo](assets/logo.png)
-
 BrowserShield checks a website's security setup one browser at a time. It covers security headers, HTTPS, cookies and compatibility, flags gaps and suggests fixes for Chrome, Safari, Firefox, Edge and mobile. Free and MIT-licensed, with no paid services.
 
+![BrowserShield logo](assets/logo.png)
 
 ## Project status: done, pending, uncertain
 **Done**
@@ -53,7 +52,7 @@ curl and openssl (tested with curl 8.14.1 and OpenSSL 3.5.7; any current release
 Copy to `~/.cursor/plugins/local/browsershield/`, or install from the marketplace once listed.
 
 ## Languages
-The AI answers in the user's language and keeps commands and file names unchanged. Short summaries in 20 languages are in [TRANSLATIONS.md](TRANSLATIONS.md): Spanish, French, Portuguese, German, Italian, Chinese (Simplified), Japanese, Korean, Hindi, Arabic, Russian, Indonesian, Turkish, Vietnamese, Bengali, Swahili, Ukrainian, Polish, Dutch and Tagalog. They are machine translations, not yet reviewed by a native speaker.
+The AI answers in the user's language and keeps commands, file names and status labels unchanged. Title, description and honest-assessment summaries in 23 languages are in [TRANSLATIONS.md](TRANSLATIONS.md): Español, Français, Português, Deutsch, Italiano, Nederlands, Polski, Русский, Українська, Türkçe, العربية, עברית, فارسی, हिन्दी, বাংলা, اردو, 简体中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, Kiswahili, Tagalog / Filipino. They are machine translations, not yet reviewed by native speakers; the English text is authoritative.
 
 ## Feedback and reviews
 - Reviews and feedback: [Discussions](https://github.com/OmnipotentCEOxJenny/browsershield/discussions)
@@ -61,3 +60,17 @@ The AI answers in the user's language and keeps commands and file names unchange
 - [Feature request](https://github.com/OmnipotentCEOxJenny/browsershield/issues/new?template=feature-request.md)
 
 License: MIT.
+
+## Honest assessment: what this plugin cannot do
+Written to be fully transparent. If something here is wrong or out of date, please open an issue.
+
+- It runs passive checks only (headers, HTTPS, cookies, compatibility). It is not a penetration test or vulnerability scanner and does not attack or exploit anything.
+- Use it only on sites you own or are authorized to test.
+- A clean report does not mean a site is secure; results reflect only the moment of the check.
+- The HTTP-to-HTTPS redirect check has not yet been re-tested end to end (it needs port 80).
+- Per-browser notes are based on MDN and change as browsers update.
+- It needs curl and OpenSSL on your computer (tested: curl 8.14.1, OpenSSL 3.5.7).
+- Marketplace: submitted and still pending review; it is not an approved listing yet.
+- Translations: the 23 translated summaries in [TRANSLATIONS.md](TRANSLATIONS.md) are machine-made and have not been reviewed by native speakers. The English text is authoritative.
+- It is not legal advice and cannot guarantee that any particular use is lawful; you remain responsible for how you use it.
+- Rules and compliance: it is built to follow all local, county, state and federal laws and every platform's rules. It uses no paid services, never bypasses logins, paywalls, CAPTCHAs or access controls, and never claims a feature it does not have.
