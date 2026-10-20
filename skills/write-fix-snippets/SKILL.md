@@ -16,3 +16,6 @@ description: Write server configuration snippets (nginx, Apache, Caddy, Netlify/
 3. Warn about breakage risks: CSP and COEP can block third-party scripts and embeds; HSTS preload is hard to undo. Suggest `Content-Security-Policy-Report-Only` first.
 4. Tell the user to re-run audit-browser-security after deploying.
 Never invent directives; check them against MDN or the server's official docs.
+
+## Language
+Answer in the user's language; keep commands, file names, header and format names, and status labels unchanged. See the Language section of the rule file.

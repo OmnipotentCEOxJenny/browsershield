@@ -1,13 +1,24 @@
 {
   "name": "browsershield",
   "displayName": "BrowserShield",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Passively checks a website's security headers, HTTPS, cookies and mixed content, then reports gaps and fixes per browser (Chrome, Safari, Firefox, Edge, mobile).",
-  "author": { "name": "Rob Domaine / Omnipotent Media LLC" },
+  "author": {
+    "name": "Rob Domaine / Omnipotent Media LLC"
+  },
   "publisher": "Omnipotent Media LLC",
   "homepage": "https://github.com/OmnipotentCEOxJenny/browsershield",
   "repository": "https://github.com/OmnipotentCEOxJenny/browsershield",
   "license": "MIT",
   "logo": "assets/logo.png",
-  "keywords": ["security", "http-headers", "csp", "hsts", "cookies", "browser-compatibility", "web"]
+  "keywords": [
+    "security",
+    "http-headers",
+    "csp",
+    "hsts",
+    "cookies",
+    "browser-compatibility",
+    "web",
+    "multilingual"
+  ]
 }

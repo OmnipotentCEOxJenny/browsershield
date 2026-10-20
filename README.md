@@ -7,6 +7,7 @@ BrowserShield checks a website's security setup one browser at a time. It covers
 
 ## Project status: done, pending, uncertain
 **Done**
+- 2026-10-20: v1.0.7 fixes a hanging openssl command and a mixed-content grep that missed single-quoted and unquoted links; adds multi-language answers and 20 translated summaries (machine-made, not yet native-reviewed); full re-test PASS.
 - 2026-10-15: v1.0.6 merges the pillars into one section in Rob's words (rule file and README).
 - 2026-10-15: full re-test PASS (manifest, frontmatter, file links, JSON/CSV export columns, two-fetch passive audit of our own repo page).
 - 2026-10-14: per-browser notes for Permissions-Policy and X-Frame-Options checked against MDN.
@@ -46,10 +47,13 @@ Only test sites you own or have written permission to test. Unauthorized testing
 - `examples/sample-report.md`: a real run on our own GitHub repo page.
 
 ## Requirements
-curl and openssl. No paid APIs, no Google or Facebook services.
+curl and openssl (tested with curl 8.14.1 and OpenSSL 3.5.7; any current release should work). No paid APIs. No Google or Facebook account is required.
 
 ## Installation
 Copy to `~/.cursor/plugins/local/browsershield/`, or install from the marketplace once listed.
+
+## Languages
+The AI answers in the user's language and keeps commands and file names unchanged. Short summaries in 20 languages are in [TRANSLATIONS.md](TRANSLATIONS.md): Spanish, French, Portuguese, German, Italian, Chinese (Simplified), Japanese, Korean, Hindi, Arabic, Russian, Indonesian, Turkish, Vietnamese, Bengali, Swahili, Ukrainian, Polish, Dutch and Tagalog. They are machine translations, not yet reviewed by a native speaker.
 
 ## Feedback and reviews
 - Reviews and feedback: [Discussions](https://github.com/OmnipotentCEOxJenny/browsershield/discussions)

@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.7 (2026-10-20)
+- Fix: the documented `openssl s_client` command waited for input and hung; it now ends with `</dev/null`.
+- Fix: the mixed-content grep missed single-quoted and unquoted `src`/`href` attributes; it now catches all three (tested).
+- Multi-language: the rule file and both skills tell the AI to answer in the user's language and keep commands, header names and status labels unchanged. Added TRANSLATIONS.md with short summaries in 20 languages (machine-made, not yet reviewed by a native speaker).
+- Requirements list the tested curl (8.14.1) and OpenSSL (3.5.7) versions. "No Google or Facebook services" reworded to "No Google or Facebook account is required".
+
 ## 1.0.6 (2026-10-15)
 - Merged the two pillars sections in the rule file into one, in Rob Domaine's words and order; all earlier rules kept as sub-bullets.
 
