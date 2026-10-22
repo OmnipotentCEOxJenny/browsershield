@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.11 (2026-10-22)
+- Logo resized from 512x512 to 1024x1024 to match the rest of the plugin set (same artwork, no visual change). No behavior changes.
+
 ## 1.0.10 (2026-10-21)
 - Added `tests/check_frontmatter.py`: a strict YAML front-matter check (PyYAML `safe_load`) for every SKILL.md and rules .mdc file, plus a plugin.json JSON check. Run `python3 tests/check_frontmatter.py` from the repo root; it catches the unquoted-colon bug fixed in PluginPulse 1.0.2.
 - No behavior changes to skills or rules.
