@@ -6,12 +6,6 @@ The plugin's AI instructions tell it to answer in the user's language and keep c
 
 Languages: Español, Français, Português, Deutsch, Italiano, Nederlands, Polski, Русский, Українська, Türkçe, العربية, עברית, فارسی, हिन्दी, বাংলা, اردو, 简体中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, Kiswahili, Tagalog / Filipino
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: legitimate, proven sources and methods; unreliable sources rejected.
-3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Español (`es`)
 _Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
 
@@ -23,8 +17,6 @@ BrowserShield revisa de forma pasiva los encabezados de seguridad, HTTPS y cooki
 Instalación: copie esta carpeta en `~/.cursor/plugins/local/browsershield/` o instálela desde el marketplace cuando esté publicada.
 
 El asistente responde en su idioma; los comandos y nombres de archivo quedan en inglés.
-
-Los cuatro pilares de Rob Domaine se aplican siempre. Se mantienen abajo con su redacción original en inglés.
 
 **Evaluación honesta:** este plugin tiene límites, detallados en el README en inglés (sección "Honest assessment: what this plugin cannot do"). No usa servicios de pago, nunca elude inicios de sesión ni reglas, y cumple todas las leyes y normas de las plataformas. Traducción automática, no revisada por un hablante nativo.
 
@@ -48,8 +40,6 @@ Installation : copiez ce dossier dans `~/.cursor/plugins/local/browsershield/`, 
 
 L'assistant répond dans votre langue ; les commandes et noms de fichiers restent en anglais.
 
-Les quatre piliers de Rob Domaine s'appliquent toujours. Ils figurent ci-dessous dans sa formulation originale en anglais.
-
 **Évaluation honnête :** ce plugin a des limites, détaillées dans le README anglais (section "Honest assessment: what this plugin cannot do"). Il n'utilise aucun service payant, ne contourne jamais les connexions ni les règles, et respecte toutes les lois et règles des plateformes. Traduction automatique, non relue par un locuteur natif.
 
 **Limites spécifiques :**
@@ -71,8 +61,6 @@ O BrowserShield verifica de forma passiva os cabeçalhos de segurança, o HTTPS 
 Instalação: copie esta pasta para `~/.cursor/plugins/local/browsershield/` ou instale pelo marketplace quando estiver publicado.
 
 O assistente responde no seu idioma; comandos e nomes de arquivos ficam em inglês.
-
-Os quatro pilares de Rob Domaine sempre se aplicam. Eles estão abaixo na redação original em inglês.
 
 **Avaliação honesta:** este plugin tem limites, detalhados no README em inglês (seção "Honest assessment: what this plugin cannot do"). Não usa serviços pagos, nunca contorna logins nem regras e cumpre todas as leis e regras das plataformas. Tradução automática, não revisada por um falante nativo.
 
@@ -96,8 +84,6 @@ Installation: Kopieren Sie diesen Ordner nach `~/.cursor/plugins/local/browsersh
 
 Der Assistent antwortet in Ihrer Sprache; Befehle und Dateinamen bleiben auf Englisch.
 
-Rob Domaines vier Grundsätze gelten immer. Sie stehen unten in seinem englischen Originalwortlaut.
-
 **Ehrliche Einschätzung:** Dieses Plugin hat Grenzen, die im englischen README aufgeführt sind (Abschnitt "Honest assessment: what this plugin cannot do"). Es nutzt keine kostenpflichtigen Dienste, umgeht nie Anmeldungen oder Regeln und hält alle Gesetze und Plattformregeln ein. Maschinelle Übersetzung, nicht von Muttersprachlern geprüft.
 
 **Konkrete Grenzen:**
@@ -119,8 +105,6 @@ BrowserShield controlla in modo passivo le intestazioni di sicurezza, l'HTTPS e 
 Installazione: copia questa cartella in `~/.cursor/plugins/local/browsershield/` oppure installala dal marketplace quando sarà pubblicata.
 
 L'assistente risponde nella tua lingua; comandi e nomi di file restano in inglese.
-
-I quattro pilastri di Rob Domaine valgono sempre. Sono riportati sotto nella sua formulazione originale in inglese.
 
 **Valutazione onesta:** questo plugin ha dei limiti, elencati nel README in inglese (sezione "Honest assessment: what this plugin cannot do"). Non usa servizi a pagamento, non aggira mai login o regole e rispetta tutte le leggi e le regole delle piattaforme. Traduzione automatica, non revisionata da un madrelingua.
 
@@ -144,8 +128,6 @@ BrowserShield 以被动方式检查网站的安全标头、HTTPS 和 Cookie，�
 
 助手会用您的语言回答；命令和文件名保持英文。
 
-Rob Domaine 的四大原则始终适用，下方保留其英文原文。
-
 **诚实评估：**本插件有其局限，详见英文 README（"Honest assessment: what this plugin cannot do" 一节）。它不使用任何付费服务，从不绕过登录或规则，并遵守所有法律和平台规则。机器翻译，未经母语人士审校。
 
 **具体局限：**
@@ -167,8 +149,6 @@ BrowserShield は、ウェブサイトのセキュリティヘッダー、HTTPS�
 インストール：このフォルダーを `~/.cursor/plugins/local/browsershield/` にコピーするか、公開後にマーケットプレイスからインストールしてください。
 
 アシスタントはあなたの言語で回答します。コマンドとファイル名は英語のままです。
-
-Rob Domaine の4つの柱は常に適用されます。下記に英語の原文のまま掲載しています。
 
 **正直な評価：**このプラグインには限界があり、英語の README（"Honest assessment: what this plugin cannot do" の節）に記載しています。有料サービスは使わず、ログインや規則を回避することはなく、すべての法律とプラットフォームの規則に従います。機械翻訳であり、ネイティブスピーカーの確認は受けていません。
 
@@ -192,8 +172,6 @@ BrowserShield는 웹사이트의 보안 헤더, HTTPS, 쿠키를 수동적으로
 
 어시스턴트는 사용자의 언어로 답하며, 명령어와 파일 이름은 영어로 유지합니다.
 
-Rob Domaine의 네 가지 원칙은 항상 적용됩니다. 아래에 영어 원문 그대로 실었습니다.
-
 **정직한 평가:** 이 플러그인에는 한계가 있으며 영어 README("Honest assessment: what this plugin cannot do" 섹션)에 나와 있습니다. 유료 서비스를 쓰지 않고, 로그인이나 규칙을 절대 우회하지 않으며, 모든 법률과 플랫폼 규칙을 따릅니다. 기계 번역이며 원어민 검토를 거치지 않았습니다.
 
 **구체적인 한계:**
@@ -215,8 +193,6 @@ BrowserShield किसी वेबसाइट के सुरक्षा �
 इंस्टॉल: इस फ़ोल्डर को `~/.cursor/plugins/local/browsershield/` में कॉपी करें, या सूचीबद्ध होने के बाद मार्केटप्लेस से इंस्टॉल करें।
 
 सहायक आपकी भाषा में उत्तर देता है; कमांड और फ़ाइल नाम अंग्रेज़ी में ही रहते हैं।
-
-Rob Domaine के चार स्तंभ हमेशा लागू होते हैं। वे नीचे उनके मूल अंग्रेज़ी शब्दों में दिए गए हैं।
 
 **ईमानदार आकलन:** इस प्लगइन की सीमाएँ हैं, जो अंग्रेज़ी README में दी गई हैं ("Honest assessment: what this plugin cannot do" अनुभाग)। यह कोई सशुल्क सेवा नहीं लेता, लॉगिन या नियमों को कभी नहीं लांघता, और सभी कानूनों व प्लेटफ़ॉर्म नियमों का पालन करता है। मशीनी अनुवाद, किसी मूल वक्ता द्वारा जाँचा नहीं गया।
 
@@ -240,8 +216,6 @@ _ترجمة آلية لم يراجعها متحدث أصلي. النسخة ال�
 
 يجيب المساعد بلغتك؛ وتبقى الأوامر وأسماء الملفات بالإنجليزية.
 
-تنطبق ركائز Rob Domaine الأربع دائمًا، وهي مذكورة أدناه بصياغته الإنجليزية الأصلية.
-
 **تقييم صادق:** لهذه الإضافة حدود مذكورة في ملف README الإنجليزي (قسم "Honest assessment: what this plugin cannot do"). لا تستخدم خدمات مدفوعة، ولا تتجاوز تسجيل الدخول أو القواعد أبدًا، وتلتزم بجميع القوانين وقواعد المنصات. ترجمة آلية لم يراجعها متحدث أصلي.
 
 **حدود محددة:**
@@ -263,8 +237,6 @@ BrowserShield пассивно проверяет заголовки безоп�
 Установка: скопируйте эту папку в `~/.cursor/plugins/local/browsershield/` или установите из маркетплейса после публикации.
 
 Ассистент отвечает на вашем языке; команды и имена файлов остаются на английском.
-
-Четыре принципа Роба Домейна действуют всегда. Ниже они приведены в его оригинальной английской формулировке.
 
 **Честная оценка:** у плагина есть ограничения, они перечислены в английском README (раздел "Honest assessment: what this plugin cannot do"). Он не использует платные сервисы, никогда не обходит входы и правила и соблюдает все законы и правила платформ. Машинный перевод, не проверен носителем языка.
 
@@ -288,8 +260,6 @@ Instalasi: salin folder ini ke `~/.cursor/plugins/local/browsershield/`, atau pa
 
 Asisten menjawab dalam bahasa Anda; perintah dan nama file tetap dalam bahasa Inggris.
 
-Empat pilar Rob Domaine selalu berlaku. Pilar tersebut tercantum di bawah dalam kata-kata asli bahasa Inggrisnya.
-
 **Penilaian jujur:** plugin ini punya batasan, tercantum di README bahasa Inggris (bagian "Honest assessment: what this plugin cannot do"). Tidak memakai layanan berbayar, tidak pernah melewati login atau aturan, dan mematuhi semua hukum serta aturan platform. Terjemahan mesin, belum ditinjau penutur asli.
 
 **Batasan khusus:**
@@ -311,8 +281,6 @@ BrowserShield bir web sitesinin güvenlik başlıklarını, HTTPS'i ve çerezler
 Kurulum: bu klasörü `~/.cursor/plugins/local/browsershield/` konumuna kopyalayın veya listelendikten sonra pazar yerinden kurun.
 
 Asistan sizin dilinizde yanıt verir; komutlar ve dosya adları İngilizce kalır.
-
-Rob Domaine'in dört ilkesi her zaman geçerlidir. Aşağıda orijinal İngilizce ifadeleriyle yer alırlar.
 
 **Dürüst değerlendirme:** bu eklentinin sınırları vardır; İngilizce README'de listelenmiştir ("Honest assessment: what this plugin cannot do" bölümü). Ücretli hizmet kullanmaz, oturum açmayı veya kuralları asla atlatmaz ve tüm yasalara ve platform kurallarına uyar. Makine çevirisidir, anadili konuşan biri tarafından incelenmemiştir.
 
@@ -336,8 +304,6 @@ Cài đặt: sao chép thư mục này vào `~/.cursor/plugins/local/browsershie
 
 Trợ lý trả lời bằng ngôn ngữ của bạn; lệnh và tên tệp giữ nguyên tiếng Anh.
 
-Bốn trụ cột của Rob Domaine luôn được áp dụng. Chúng được giữ nguyên văn tiếng Anh ở bên dưới.
-
 **Đánh giá trung thực:** plugin này có giới hạn, được liệt kê trong README tiếng Anh (mục "Honest assessment: what this plugin cannot do"). Không dùng dịch vụ trả phí, không bao giờ vượt qua đăng nhập hay quy tắc, và tuân thủ mọi luật cùng quy định nền tảng. Bản dịch máy, chưa được người bản ngữ kiểm tra.
 
 **Giới hạn cụ thể:**
@@ -359,8 +325,6 @@ BrowserShield একটি ওয়েবসাইটের নিরাপত�
 ইনস্টল: এই ফোল্ডারটি `~/.cursor/plugins/local/browsershield/`-এ কপি করুন, অথবা তালিকাভুক্ত হলে মার্কেটপ্লেস থেকে ইনস্টল করুন।
 
 সহকারী আপনার ভাষায় উত্তর দেয়; কমান্ড ও ফাইলের নাম ইংরেজিতেই থাকে।
-
-Rob Domaine-এর চারটি স্তম্ভ সবসময় প্রযোজ্য। নিচে সেগুলো তাঁর মূল ইংরেজি ভাষায় রাখা হয়েছে।
 
 **সৎ মূল্যায়ন:** এই প্লাগইনের সীমাবদ্ধতা আছে, যা ইংরেজি README-তে তালিকাভুক্ত ("Honest assessment: what this plugin cannot do" অংশ)। এটি কোনো পেইড সেবা ব্যবহার করে না, কখনও লগইন বা নিয়ম এড়ায় না এবং সব আইন ও প্ল্যাটফর্মের নিয়ম মানে। যান্ত্রিক অনুবাদ, কোনো মাতৃভাষী পর্যালোচনা করেননি।
 
@@ -384,8 +348,6 @@ Usakinishaji: nakili folda hii kwenda `~/.cursor/plugins/local/browsershield/`, 
 
 Msaidizi hujibu kwa lugha yako; amri na majina ya faili hubaki kwa Kiingereza.
 
-Nguzo nne za Rob Domaine zinatumika kila wakati. Zimewekwa hapa chini kwa maneno yake asilia ya Kiingereza.
-
 **Tathmini ya kweli:** programu-jalizi hii ina mipaka, iliyoorodheshwa katika README ya Kiingereza (sehemu "Honest assessment: what this plugin cannot do"). Haitumii huduma za kulipia, haikwepi kamwe kuingia au sheria, na inafuata sheria zote na kanuni za majukwaa. Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia.
 
 **Mipaka mahususi:**
@@ -407,8 +369,6 @@ BrowserShield пасивно перевіряє заголовки безпек�
 Встановлення: скопіюйте цю папку до `~/.cursor/plugins/local/browsershield/` або встановіть із маркетплейсу після публікації.
 
 Асистент відповідає вашою мовою; команди та імена файлів залишаються англійською.
-
-Чотири принципи Роба Домейна діють завжди. Нижче їх наведено в оригінальному англійському формулюванні.
 
 **Чесна оцінка:** плагін має обмеження, їх перелічено в англійському README (розділ "Honest assessment: what this plugin cannot do"). Він не використовує платних сервісів, ніколи не обходить входи й правила та дотримується всіх законів і правил платформ. Машинний переклад, не перевірений носієм мови.
 
@@ -432,8 +392,6 @@ Instalacja: skopiuj ten folder do `~/.cursor/plugins/local/browsershield/` lub z
 
 Asystent odpowiada w Twoim języku; polecenia i nazwy plików pozostają po angielsku.
 
-Cztery filary Roba Domaine'a obowiązują zawsze. Poniżej podano je w oryginalnym angielskim brzmieniu.
-
 **Uczciwa ocena:** ta wtyczka ma ograniczenia, opisane w angielskim README (sekcja "Honest assessment: what this plugin cannot do"). Nie korzysta z płatnych usług, nigdy nie omija logowania ani zasad i przestrzega wszystkich przepisów oraz zasad platform. Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka.
 
 **Konkretne ograniczenia:**
@@ -456,8 +414,6 @@ Installatie: kopieer deze map naar `~/.cursor/plugins/local/browsershield/`, of 
 
 De assistent antwoordt in uw taal; commando's en bestandsnamen blijven in het Engels.
 
-De vier pijlers van Rob Domaine gelden altijd. Ze staan hieronder in zijn oorspronkelijke Engelse bewoording.
-
 **Eerlijke beoordeling:** deze plug-in heeft beperkingen, beschreven in de Engelse README (sectie "Honest assessment: what this plugin cannot do"). Hij gebruikt geen betaalde diensten, omzeilt nooit logins of regels en volgt alle wetten en platformregels. Machinevertaling, niet nagekeken door een moedertaalspreker.
 
 **Specifieke beperkingen:**
@@ -479,8 +435,6 @@ Pasibong sinusuri ng BrowserShield ang mga security header, HTTPS at cookies ng 
 Pag-install: kopyahin ang folder na ito sa `~/.cursor/plugins/local/browsershield/`, o i-install mula sa marketplace kapag nakalista na.
 
 Sumasagot ang assistant sa iyong wika; nananatiling Ingles ang mga command at pangalan ng file.
-
-Laging umiiral ang apat na haligi ni Rob Domaine. Nakasaad ang mga ito sa ibaba sa orihinal niyang pananalita sa Ingles.
 
 **Tapat na pagtatasa:** may mga limitasyon ang plugin na ito, nakalista sa README sa Ingles (seksyong "Honest assessment: what this plugin cannot do"). Hindi ito gumagamit ng bayad na serbisyo, hindi kailanman lumalampas sa login o mga patakaran, at sumusunod sa lahat ng batas at patakaran ng platform. Pagsasaling makina, hindi pa nasusuri ng katutubong nagsasalita.
 

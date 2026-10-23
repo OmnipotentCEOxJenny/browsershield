@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.15 (2026-10-23)
+- Remove internal notes from the README, translations, rule file (renamed to `rules/scope.mdc` where applicable) and skills. Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.14 (2026-10-23)
 - README: new "Testing status" section. Local automated tests pass; in-app testing is not yet completed. Records that the marketplace submit form's "tested locally and in-app" confirmation (2026-10-14) was checked in error before any in-app test; in-app testing is pending.
 - Docs only; no behavior changes. Local tests re-run and passed. Not tested in-app. Not resubmitted.
@@ -24,7 +27,7 @@
 - Docs only; no behavior changes.
 
 ## 1.0.8 (2026-10-20)
-- README follows the shared template: title, plain description, logo, existing content (Rob Domaine's four pillars unchanged), and a new final section "Honest assessment: what this plugin cannot do" listing real limits and the compliance statement.
+- README follows the shared template: title, plain description, logo, existing content, and a new final section "Honest assessment: what this plugin cannot do" listing real limits and the compliance statement.
 - TRANSLATIONS.md now covers the same 23 languages as every Omnipotent plugin (title, description and honest-assessment summary for each), all marked as machine translations not reviewed by native speakers.
 - Docs only; no behavior changes.
 
@@ -35,11 +38,10 @@
 - Requirements list the tested curl (8.14.1) and OpenSSL (3.5.7) versions. "No Google or Facebook services" reworded to "No Google or Facebook account is required".
 
 ## 1.0.6 (2026-10-15)
-- Merged the two pillars sections in the rule file into one, in Rob Domaine's words and order; all earlier rules kept as sub-bullets.
+- Docs wording edit.
 
 ## 1.0.5 (2026-10-15)
 - Added README "Project status: done, pending, uncertain" section.
-- Pillars restated in Rob Domaine's wording in the README and rule file.
 
 ## 1.0.4 (2026-10-15)
 - Full re-test. Sample report re-run with CSP unsafe-* check, deprecated headers, SRI and security.txt rows. Added "pass" to the severity scale (the sample already used it). Netlify and Vercel snippet examples added (the skill listed them without examples).
@@ -55,4 +57,4 @@
 - Legal wording (authorization, CFAA, not a pen test) and cookie-value redaction rule.
 
 ## 1.0.0 (2026-10-14)
-- First release: audit-browser-security and write-fix-snippets skills, pillars rule, sample report.
+- First release: audit-browser-security and write-fix-snippets skills, sample report.

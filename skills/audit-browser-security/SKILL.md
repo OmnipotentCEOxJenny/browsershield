@@ -5,7 +5,7 @@ description: Passive website security-header and HTTPS check. Use whenever a use
 
 # Audit browser security
 
-Follow `rules/pillars-and-scope.mdc`. Required.
+Follow `rules/scope.mdc`. Required.
 
 ## Workflow
 1. **Authorization gate.** Confirm the user owns or may test the site. Passive checks only.
