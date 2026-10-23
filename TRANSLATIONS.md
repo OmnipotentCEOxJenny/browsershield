@@ -13,6 +13,8 @@ Languages: Español, Français, Português, Deutsch, Italiano, Nederlands, Polsk
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Español (`es`)
+_Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
+
 **BrowserShield**
 *Traducción automática, aún no revisada por un hablante nativo.*
 
@@ -35,6 +37,8 @@ Los cuatro pilares de Rob Domaine se aplican siempre. Se mantienen abajo con su 
 - Revisión del marketplace pendiente; aún no es una publicación aprobada.
 
 ## Français (`fr`)
+_Traduction automatique, non relue par un locuteur natif. La version anglaise fait foi._
+
 **BrowserShield**
 *Traduction automatique, pas encore relue par un locuteur natif.*
 
@@ -57,6 +61,8 @@ Les quatre piliers de Rob Domaine s'appliquent toujours. Ils figurent ci-dessous
 - Examen sur le marketplace en attente ; pas encore une fiche approuvée.
 
 ## Português (`pt`)
+_Tradução automática, não revisada por um falante nativo. A versão em inglês é a oficial._
+
 **BrowserShield**
 *Tradução automática, ainda não revisada por um falante nativo.*
 
@@ -79,6 +85,8 @@ Os quatro pilares de Rob Domaine sempre se aplicam. Eles estão abaixo na redaç
 - Análise do marketplace pendente; ainda não é uma listagem aprovada.
 
 ## Deutsch (`de`)
+_Maschinelle Übersetzung, nicht von Muttersprachlern geprüft. Maßgeblich ist die englische Fassung._
+
 **BrowserShield**
 *Maschinelle Übersetzung, noch nicht von Muttersprachlern geprüft.*
 
@@ -101,6 +109,8 @@ Rob Domaines vier Grundsätze gelten immer. Sie stehen unten in seinem englische
 - Marketplace-Prüfung ausstehend; noch kein genehmigter Eintrag.
 
 ## Italiano (`it`)
+_Traduzione automatica, non revisionata da un madrelingua. Fa fede la versione inglese._
+
 **BrowserShield**
 *Traduzione automatica, non ancora revisionata da un madrelingua.*
 
@@ -123,6 +133,8 @@ I quattro pilastri di Rob Domaine valgono sempre. Sono riportati sotto nella sua
 - Revisione del marketplace in attesa; non è ancora una scheda approvata.
 
 ## 简体中文 (`zh`)
+_机器翻译，未经母语人士审校。以英文版本为准。_
+
 **BrowserShield**
 *机器翻译，尚未经母语人士审阅。*
 
@@ -145,6 +157,8 @@ Rob Domaine 的四大原则始终适用，下方保留其英文原文。
 - 市场审核尚在进行，目前还不是已批准的上架项目。
 
 ## 日本語 (`ja`)
+_機械翻訳であり、ネイティブスピーカーによる確認は受けていません。英語版が正式な版です。_
+
 **BrowserShield**
 *機械翻訳です。ネイティブスピーカーによる確認はまだです。*
 
@@ -167,6 +181,8 @@ Rob Domaine の4つの柱は常に適用されます。下記に英語の原文�
 - マーケットプレイスの審査待ちで、まだ承認済みの掲載ではありません。
 
 ## 한국어 (`ko`)
+_기계 번역이며 원어민의 검토를 받지 않았습니다. 영어판이 공식 버전입니다._
+
 **BrowserShield**
 *기계 번역이며 아직 원어민의 검토를 받지 않았습니다.*
 
@@ -189,6 +205,8 @@ Rob Domaine의 네 가지 원칙은 항상 적용됩니다. 아래에 영어 원
 - 마켓플레이스 심사 대기 중이며 아직 승인된 목록이 아닙니다.
 
 ## हिन्दी (`hi`)
+_यह मशीनी अनुवाद है, किसी मूल भाषी ने इसकी समीक्षा नहीं की है। अंग्रेज़ी संस्करण ही प्रामाणिक है।_
+
 **BrowserShield**
 *मशीन अनुवाद, अभी तक किसी मूल भाषी द्वारा जाँचा नहीं गया।*
 
@@ -211,6 +229,8 @@ Rob Domaine के चार स्तंभ हमेशा लागू हो
 - मार्केटप्लेस समीक्षा लंबित है; यह अभी स्वीकृत लिस्टिंग नहीं है।
 
 ## العربية (`ar`)
+_ترجمة آلية لم يراجعها متحدث أصلي. النسخة الإنجليزية هي المعتمدة._
+
 **BrowserShield**
 *ترجمة آلية، لم يراجعها متحدث أصلي بعد.*
 
@@ -233,6 +253,8 @@ Rob Domaine के चार स्तंभ हमेशा लागू हो
 - مراجعة المتجر قيد الانتظار؛ ليست قائمة معتمدة بعد.
 
 ## Русский (`ru`)
+_Машинный перевод, не проверен носителем языка. Основной является английская версия._
+
 **BrowserShield**
 *Машинный перевод, ещё не проверен носителем языка.*
 
@@ -255,6 +277,8 @@ BrowserShield пассивно проверяет заголовки безоп�
 - Проверка в маркетплейсе ещё идёт; это пока не одобренная публикация.
 
 ## Bahasa Indonesia (`id`)
+_Terjemahan mesin, belum ditinjau oleh penutur asli. Versi bahasa Inggris adalah versi yang berlaku._
+
 **BrowserShield**
 *Terjemahan mesin, belum ditinjau oleh penutur asli.*
 
@@ -277,6 +301,8 @@ Empat pilar Rob Domaine selalu berlaku. Pilar tersebut tercantum di bawah dalam 
 - Peninjauan marketplace masih menunggu; belum menjadi listing yang disetujui.
 
 ## Türkçe (`tr`)
+_Makine çevirisidir, anadili bu dil olan biri tarafından incelenmemiştir. Geçerli olan İngilizce sürümdür._
+
 **BrowserShield**
 *Makine çevirisidir, henüz anadili konuşan biri tarafından gözden geçirilmedi.*
 
@@ -299,6 +325,8 @@ Rob Domaine'in dört ilkesi her zaman geçerlidir. Aşağıda orijinal İngilizc
 - Marketplace incelemesi sürüyor; henüz onaylı bir liste değil.
 
 ## Tiếng Việt (`vi`)
+_Bản dịch máy, chưa được người bản ngữ kiểm tra. Bản tiếng Anh là bản chính thức._
+
 **BrowserShield**
 *Bản dịch máy, chưa được người bản ngữ kiểm tra.*
 
@@ -321,6 +349,8 @@ Bốn trụ cột của Rob Domaine luôn được áp dụng. Chúng được g
 - Đang chờ marketplace xét duyệt; chưa phải mục đã được phê duyệt.
 
 ## বাংলা (`bn`)
+_এটি যন্ত্র-অনুবাদ, কোনো মাতৃভাষী এটি পর্যালোচনা করেননি। ইংরেজি সংস্করণটিই প্রামাণিক।_
+
 **BrowserShield**
 *যন্ত্র-অনুবাদ, এখনও কোনো মাতৃভাষী পর্যালোচনা করেননি।*
 
@@ -343,6 +373,8 @@ Rob Domaine-এর চারটি স্তম্ভ সবসময় প্�
 - মার্কেটপ্লেস পর্যালোচনা বাকি; এখনও অনুমোদিত তালিকা নয়।
 
 ## Kiswahili (`sw`)
+_Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia. Toleo la Kiingereza ndilo rasmi._
+
 **BrowserShield**
 *Tafsiri ya mashine, bado haijakaguliwa na mzungumzaji asilia.*
 
@@ -365,6 +397,8 @@ Nguzo nne za Rob Domaine zinatumika kila wakati. Zimewekwa hapa chini kwa maneno
 - Ukaguzi wa marketplace bado unasubiriwa; bado si orodha iliyoidhinishwa.
 
 ## Українська (`uk`)
+_Машинний переклад, не перевірений носієм мови. Основною є англійська версія._
+
 **BrowserShield**
 *Машинний переклад, ще не перевірений носієм мови.*
 
@@ -387,6 +421,8 @@ BrowserShield пасивно перевіряє заголовки безпек�
 - Перевірка в маркетплейсі ще триває; це ще не схвалений запис.
 
 ## Polski (`pl`)
+_Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka. Wiążąca jest wersja angielska._
+
 **BrowserShield**
 *Tłumaczenie maszynowe, jeszcze niesprawdzone przez rodzimego użytkownika języka.*
 
@@ -409,6 +445,8 @@ Cztery filary Roba Domaine'a obowiązują zawsze. Poniżej podano je w oryginaln
 - Weryfikacja w marketplace w toku; to jeszcze nie zatwierdzona pozycja.
 
 ## Nederlands (`nl`)
+_Machinevertaling, niet nagekeken door een moedertaalspreker. De Engelse versie is leidend._
+
 **BrowserShield**
 *Machinevertaling, nog niet nagekeken door een moedertaalspreker.*
 
@@ -431,6 +469,8 @@ De vier pijlers van Rob Domaine gelden altijd. Ze staan hieronder in zijn oorspr
 - Marketplace-beoordeling loopt nog; nog geen goedgekeurde vermelding.
 
 ## Tagalog / Filipino (`tl`)
+_Makina ang nagsalin nito at hindi pa nasusuri ng katutubong tagapagsalita. Ang bersyong Ingles ang opisyal._
+
 **BrowserShield**
 *Pagsasaling makina, hindi pa nasusuri ng katutubong nagsasalita.*
 
@@ -453,6 +493,8 @@ Laging umiiral ang apat na haligi ni Rob Domaine. Nakasaad ang mga ito sa ibaba 
 - Nakabinbin pa ang pagsusuri sa marketplace; hindi pa ito aprubadong listing.
 
 ## עברית (`he`)
+_תרגום מכונה שלא נבדק על ידי דובר שפת אם. הגרסה האנגלית היא המחייבת._
+
 **BrowserShield**
 
 BrowserShield בודק באופן פסיבי כותרות אבטחה, HTTPS ועוגיות של אתר ומציע תיקונים לכל דפדפן. רק לאתרים שבבעלותך או שיש לך הרשאה לבדוק.
@@ -468,6 +510,8 @@ BrowserShield בודק באופן פסיבי כותרות אבטחה, HTTPS וע
 - בדיקת ה-marketplace עדיין ממתינה; זה עדיין לא רישום מאושר.
 
 ## فارسی (`fa`)
+_ترجمه ماشینی است و توسط گویشور بومی بازبینی نشده است. نسخه انگلیسی معتبر است._
+
 **BrowserShield**
 
 BrowserShield به‌صورت غیرفعال سرآیندهای امنیتی، HTTPS و کوکی‌های یک وب‌سایت را بررسی می‌کند و برای هر مرورگر اصلاحاتی پیشنهاد می‌دهد. فقط برای سایت‌هایی که مال شماست یا اجازهٔ بررسی‌شان را دارید.
@@ -483,6 +527,8 @@ BrowserShield به‌صورت غیرفعال سرآیندهای امنیتی، H
 - بررسی در بازارچه در انتظار است؛ هنوز فهرستی تأییدشده نیست.
 
 ## اردو (`ur`)
+_یہ مشینی ترجمہ ہے، کسی اہلِ زبان نے اس کا جائزہ نہیں لیا۔ انگریزی ورژن ہی مستند ہے۔_
+
 **BrowserShield**
 
 BrowserShield کسی ویب سائٹ کے سیکیورٹی ہیڈرز، HTTPS اور کوکیز کی غیر فعال جانچ کرتا ہے اور ہر براؤزر کے لیے اصلاحات تجویز کرتا ہے۔ صرف اُن سائٹس کے لیے جو آپ کی ہوں یا جن کی جانچ کی آپ کو اجازت ہو۔
