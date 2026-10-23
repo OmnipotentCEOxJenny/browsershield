@@ -21,6 +21,11 @@ BrowserShield checks a website's security setup one browser at a time. It covers
 - How the listing works on the Grok Bot and Grok side: not described in the Cursor publisher terms, so not confirmed.
 - Whether xAI review will require changes: unknown until review.
 
+## Testing status (corrected 2026-10-23)
+- Local automated tests: PASS on 2026-10-23 (`python3 tests/check_frontmatter.py`: plugin.json is valid JSON and every SKILL.md and rules file has valid front matter). Earlier local tests are listed under Project status above.
+- In-app testing (loading the plugin inside the Cursor app or Grok Build): **not yet completed**. It is pending.
+- Correction: when this plugin was submitted to the Grok Bot marketplace (2026-10-14), the submit form's "I have tested this plugin locally and in-app" confirmation was checked in error. Only local testing had been done. This was a mistake by Jenny Echo, the AI assistant that built and submitted the plugin, not a choice by the publisher, Rob Domaine. This plugin should not be described as tested in-app until that test has actually been done and recorded here.
+
 ## Quick start
 1. Install (see Installation).
 2. Ask: "Run BrowserShield on https://your-site.example" (a site you own or may test).
