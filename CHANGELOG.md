@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.12 (2026-10-23)
+- Search keywords: 36 to 40 (added SameSite, CertificateExpiry, SecurityTxt, HttpsRedirect), all BrowserShield-specific, per Rob's keyword rules.
+- Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.11 (2026-10-22)
 - Logo resized from 512x512 to 1024x1024 to match the rest of the plugin set (same artwork, no visual change). No behavior changes.
 

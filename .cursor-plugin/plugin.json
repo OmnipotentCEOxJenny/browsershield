@@ -1,7 +1,7 @@
 {
   "name": "browsershield",
   "displayName": "BrowserShield",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Passively checks a website's security headers, HTTPS, cookies and mixed content, then reports gaps and fixes per browser (Chrome, Safari, Firefox, Edge, mobile).",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
@@ -47,6 +47,10 @@
     "curl",
     "openssl",
     "JennyEcho",
-    "OmnipotentCeo"
+    "OmnipotentCeo",
+    "SameSite",
+    "CertificateExpiry",
+    "SecurityTxt",
+    "HttpsRedirect"
   ]
 }
